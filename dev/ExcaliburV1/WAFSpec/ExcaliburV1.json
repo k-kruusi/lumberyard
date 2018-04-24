@@ -1,0 +1,9 @@
+{
+    "description": "Configuration for ExcaliburV1",
+    "visual_studio_name": "ExcaliburV1",
+    "comment" : "",
+    "game_projects" : "ExcaliburV1",
+
+    "modules" : [
+    ]
+}
